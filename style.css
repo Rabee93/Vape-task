@@ -16,6 +16,7 @@ img {
 
 h1 {
   font-family: 'Bebas Neue', cursive;
+  font-size:
 }
 
 p{
@@ -24,16 +25,39 @@ p{
 
 ul{
   margin-left: 600px;
+  position: relative;
+  bottom: 40px;
 }
 
 li {
   display: inline;
   padding: 20px;
   font-family: "Proxima Nova", sans-serif;
+  color: white;
+
 }
 
-button{
+.earning-btn{
   font-family: "Proxima Nova", sans-serif;
+  border-radius: 8px;
+  background-color: #ff6600;
+  color: white;
+  padding: 10px;
+  border-style: solid;
+  border-color: #ff6600;
+  padding: 7px 25px 7px 25px;
+}
+
+.moreinfo{
+  font-family: "Proxima Nova", sans-serif;
+  border-radius: 8px;
+  background-color: white;
+  color: #ff6600;
+  border-style: solid;
+  border-color: #ff6600;
+  margin-left: 10px;
+  padding: 7px 50px 7px 50px;
+
 }
 
 input {
