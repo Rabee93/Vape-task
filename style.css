@@ -1,0 +1,10 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-image: url(./images/Header_Home_Desktop.jpg);
+  background-size: cover;
+  background-repeat:no-repeat;
+}
