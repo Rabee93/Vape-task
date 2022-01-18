@@ -16,11 +16,13 @@ img {
 
 h1 {
   font-family: 'Bebas Neue', cursive;
-  font-size:
+  font-size:70px;
+  margin-bottom: 20px;
 }
 
 p{
   font-family: "Proxima Nova", sans-serif;
+  color: #B0B0B0;
 }
 
 ul{
@@ -34,10 +36,23 @@ li {
   padding: 20px;
   font-family: "Proxima Nova", sans-serif;
   color: white;
+  font-size: 11px;
 
 }
+span{
+  color: #ff6600;
+}
 
-.earning-btn{
+input {
+  color: orange;
+}
+
+
+
+.bottomtxt{
+  margin-bottom: 20px;
+}
+.earning-btn1{
   font-family: "Proxima Nova", sans-serif;
   border-radius: 8px;
   background-color: #ff6600;
@@ -45,7 +60,19 @@ li {
   padding: 10px;
   border-style: solid;
   border-color: #ff6600;
-  padding: 7px 25px 7px 25px;
+  padding: 7px 20px 7px 20px;
+  font-size: 11px;
+}
+.earning-btn2{
+  font-family: "Proxima Nova", sans-serif;
+  border-radius: 8px;
+  background-color: #ff6600;
+  color: white;
+  padding: 10px;
+  border-style: solid;
+  border-color: #ff6600;
+  padding: 7px 30px 7px 30px;
+  font-size: 11px;
 }
 
 .moreinfo{
@@ -60,9 +87,7 @@ li {
 
 }
 
-input {
-  color: orange;
-}
+
 
 .text{
   margin-top: 200px;
