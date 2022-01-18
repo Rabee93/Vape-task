@@ -8,3 +8,39 @@ body {
   background-size: cover;
   background-repeat:no-repeat;
 }
+
+img {
+  margin-top: 50px;
+  margin-left: 180px;
+}
+
+h1 {
+  font-family: 'Bebas Neue', cursive;
+}
+
+p{
+  font-family: "Proxima Nova", sans-serif;
+}
+
+ul{
+  margin-left: 600px;
+}
+
+li {
+  display: inline;
+  padding: 20px;
+  font-family: "Proxima Nova", sans-serif;
+}
+
+button{
+  font-family: "Proxima Nova", sans-serif;
+}
+
+input {
+  color: orange;
+}
+
+.text{
+  margin-top: 200px;
+  margin-left: 180px;
+}
